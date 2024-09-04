@@ -3,6 +3,7 @@
 
 ## Para poder compilar e executar o primeiro programa:
 gcc Question1 -o question1
+
 ./question1
 
 ## Para poder executar o segundo programa:
